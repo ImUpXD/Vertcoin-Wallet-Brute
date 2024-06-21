@@ -1,0 +1,1 @@
+# Vertcoin-Wallet-Brute
